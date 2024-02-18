@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/nishant singh" target="blank"><img src="https://img.shields.io/twitter/follow/nishant singh?logo=twitter&style=for-the-badge" alt="nishant singh" /></a> </p>
 
-- 🔭 I’m currently working on **IBM Project**
+- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Java , Python , DSA , Javascript , HTML , CSS , GO**
+- 🌱 I’m currently learning **Pyhon, SQL, Numpy, Pnadas, 
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Data Science **
 
-- 🤝 I’m looking for help with **Developing Many Software That Can Find The User Easily**
+- 🤝 I’m looking for help with **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pky1234](https://github.com/Pky1234)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/prashant-kumar-b00b32243](https://www.linkedin.com/in/prashant-kumar-b00b32243)
 
-- 💬 Ask me about **Software Development**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **prashantkumaryt53@gmail.com**
 
