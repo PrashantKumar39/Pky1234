@@ -74,7 +74,6 @@
 <div align="center" >
     <a  href="https://github.com/Prashantkumar39">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prashantkumar39&theme=dark" width="32.5%">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pks1234&" alt="pks1234" /></p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashantkumar39&theme=dark" width="100%" height="50%">
 </a>
 </div>
@@ -84,4 +83,13 @@
 <hr>
 </div>
 
+h3 align="center">Contribution Graph </h3>
+  
+[![Vinaykumarmahato's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashantkumar39&theme=github-compact)](https://github.com/Prashantkumar39/github-readme-activity-graph)
+
+
+## ✍️ Know More About me:
+<a href="https://Prashantkumar39.github.io/Linktree/">
+  <img src="https://img.shields.io/badge/Know-more-0357F7?style=for-the-badge&logo=Knowmore">
+</a>
 
