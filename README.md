@@ -65,11 +65,29 @@
   <img src="https://img.shields.io/badge/Leetcode-%231877F2.svg?logo=Leetcode&logoColor=white" alt="Leetcode" style="width: 80px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
 </a>
 
+<a href="https://Python.com//" target="_blank">
+  <img src="https://img.shields.io/badge/Pyhton-%231877F2.svg?logo=Python&logoColor=white" alt="Python" style="width: 80px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
+</a>
+
+<a href="https://Sql.com//" target="_blank">
+  <img src="https://img.shields.io/badge/Sql-%231877F2.svg?logo=Sql&logoColor=white" alt="Sql" style="width: 30px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
+</a>
+
+<a href="https://twitter.com/https://Java.com/#" target="_blank" style="margin-right: 20px;">
+  <img src="https://img.shields.io/badge/Java-%231DA1F2.svg?logo=Java&logoColor=white" alt="Java" style="width: 40px; height: 40px; border: 4px solid #1da1f2; border-radius: 10px;">
+</a>
+
+<a href="https://Data Structure.com//" target="_blank">
+  <img src="https://img.shields.io/badge/Data Structure-%231877F2.svg?logo=Data Structure&logoColor=white" alt="Data Structure" style="width: 100px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
+</a>
+
+
 
 <h3> &#x1f4c8; GitHub Stats</h3>
 <div align="center" >
     <a  href="https://github.com/Prashantkumar39">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prashantkumar39&theme=dark" width="32.5%">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pks1234&" alt="pks1234" /></p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prashantkumar39&theme=dark" width="100%" height="50%">
 </a>
 </div>
@@ -79,7 +97,6 @@
 <hr>
 </div>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pks1234&show_icons=true&locale=en" alt="pks1234" /></p>  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pks1234&" alt="pks1234" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pks1234&" alt="pks1234" /></p>
 
 
