@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Pyhon, SQL, Numpy, Pnadas, 
+- 🌱 I’m currently learning **𝘗𝘺𝘩𝘰𝘯, 𝘚𝘘𝘓, 𝘕𝘶𝘮𝘱𝘺, 𝘗𝘯𝘢𝘥𝘢𝘴, 𝘔𝘢𝘤𝘩𝘪𝘯𝘦 𝘓𝘦𝘢𝘳𝘯𝘪𝘯𝘨
 
 - 👯 I’m looking to collaborate on **Data Science **
 
@@ -47,10 +47,15 @@
   <img src="https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=Kaggle&logoColor=white" alt="Kaggle" style="width: 80px; height: 40px; border: 4px solid #0077b5; border-radius: 10px;">
 </a>
 
+<a href="https://leetcode.com/prashantyt53/" target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-%231877F2.svg?logo=Leetcode&logoColor=white" alt="Leetcode" style="width: 80px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
+</a>
+
 
 <a href="https://facebook.com/groups/Nishant Singh/" target="_blank" style="margin-right: 20px;">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" style="width: 80px; height: 40px; border: 4px solid #3b5998; border-radius: 10px;">
 </a>
+
 
 <a href="https://www.instagram.com/nishan_sing_h=MXd0a2J4ZGwyZnZreg==" target="_blank" style="margin-right: 20px;">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="width: 80px; height: 40px; border: 4px solid #e4405f; border-radius: 10px;">
@@ -61,27 +66,9 @@
 </a>
 
 
-<a href="https://leetcode.com/prashantyt53/" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-%231877F2.svg?logo=Leetcode&logoColor=white" alt="Leetcode" style="width: 80px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
-</a>
-
 <a href="https://Python.com//" target="_blank">
   <img src="https://img.shields.io/badge/Pyhton-%231877F2.svg?logo=Python&logoColor=white" alt="Python" style="width: 80px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
 </a>
-
-<a href="https://Sql.com//" target="_blank">
-  <img src="https://img.shields.io/badge/Sql-%231877F2.svg?logo=Sql&logoColor=white" alt="Sql" style="width: 30px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
-</a>
-
-<a href="https://twitter.com/https://Java.com/#" target="_blank" style="margin-right: 20px;">
-  <img src="https://img.shields.io/badge/Java-%231DA1F2.svg?logo=Java&logoColor=white" alt="Java" style="width: 40px; height: 40px; border: 4px solid #1da1f2; border-radius: 10px;">
-</a>
-
-<a href="https://Data Structure.com//" target="_blank">
-  <img src="https://img.shields.io/badge/Data Structure-%231877F2.svg?logo=Data Structure&logoColor=white" alt="Data Structure" style="width: 100px; height: 40px; border: 4px solid #1f73b7; border-radius: 10px;">
-</a>
-
-
 
 <h3> &#x1f4c8; GitHub Stats</h3>
 <div align="center" >
@@ -96,7 +83,5 @@
   
 <hr>
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pks1234&" alt="pks1234" /></p>
 
 
